@@ -13,4 +13,6 @@
     <string name="co_ed">CO-ED</string>
     <string name="i_am_a">I am a:</string>
     <string name="finish">FINISH</string>
+    <string name="beginner">Beginner</string>
+    <string name="baller">Baller</string>
 </resources>
